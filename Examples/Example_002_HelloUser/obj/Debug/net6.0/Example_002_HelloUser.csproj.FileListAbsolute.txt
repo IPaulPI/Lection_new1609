@@ -1,0 +1,15 @@
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\bin\Debug\net6.0\Example_002_HelloUser.exe
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\bin\Debug\net6.0\Example_002_HelloUser.deps.json
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\bin\Debug\net6.0\Example_002_HelloUser.runtimeconfig.json
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\bin\Debug\net6.0\Example_002_HelloUser.dll
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\bin\Debug\net6.0\Example_002_HelloUser.pdb
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.AssemblyInfo.cs
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.dll
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\refint\Example_002_HelloUser.dll
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.pdb
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\Example_002_HelloUser.genruntimeconfig.cache
+C:\Users\Павел\OneDrive\Рабочий стол\Lections_new1609\Examples\Example_002_HelloUser\obj\Debug\net6.0\ref\Example_002_HelloUser.dll
