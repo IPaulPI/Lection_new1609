@@ -88,7 +88,7 @@ else
 // -4, 16  ->  да
 // 25, 5  ->  да
 // 8,9  ->  нет
-/*
+
 using System;
 
 class Program
@@ -111,12 +111,12 @@ class Program
 
         bool isSquare = false;
 
-        if (num1 > 0 && num2 > 0)
+        if (num1 != 0 && num2 != 0)
         {
             int sqrtNum1 = (int)Math.Sqrt(num1);
             int sqrtNum2 = (int)Math.Sqrt(num2);
 
-            if (sqrtNum1 * sqrtNum1 == num2 || sqrtNum2 * sqrtNum2 == num1)
+            if (sqrtNum1 == num2 || sqrtNum2 == num1)
             {
                 isSquare = true;
             }
@@ -132,8 +132,8 @@ class Program
         }
     }
 }
-*/
 
+/*
 Console.WriteLine("Input first number");
 double num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input second number");
@@ -147,3 +147,4 @@ else
 {
     Console.WriteLine("Ни одно из чисел не является квадратом другого.");
 }
+*/
