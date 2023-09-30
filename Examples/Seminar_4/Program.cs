@@ -19,6 +19,40 @@ int SumFrom1toA(int a)
 }
 
 int number = ReadNumber("Enter number: ");
+if(number > 1)
+{
 int result = SumFrom1toA(number);
 Console.WriteLine($"Сумма чисел от 1 до {number} = {result}");
+}
+else
+{
+    Console.WriteLine("Ошибка ввода. Введите число больше единицы.")
+}
 */
+int[] CreateRandomArray(int size, int minValue, int maxValue)
+{
+    int[] array = new int[size]; // обязательно задать размер массива при инициализации
+
+    for(int i = 0; i < size; i++)
+        array[i] = new Random().Next(minValue, maxValue + 1);
+    
+    return array;
+}
+
+void WriteArray(int[] array)
+{
+    for(int i = 0; i < array.Length; i++)
+        Console.Write(array[i] + " ");
+
+    Console.WriteLine();
+}
+
+Console.Write("Input a length of an array: ");
+int length = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input a min possible value: ");
+int min = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input a max possible value: ");
+int max = Convert.ToInt32(Console.ReadLine());
+
+int[] myArray = CreateRandomArray(length, min, max);
+WriteArray(myArray);
